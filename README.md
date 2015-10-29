@@ -5,6 +5,6 @@ Simons' Stamo
 
 
 
-This is new code from coworker in Baltimore
+This is new code from coworker in JAPAN
 
 NYT loves this 
