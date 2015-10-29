@@ -1,6 +1,6 @@
 Simons' Stamo
 ---
 
-#About
+#About Simon
 
 Stuff about stamps
