@@ -1,6 +1,10 @@
 Simons' Stamo
 ---
 
-#About Simon
+#About Simon  Changed
+
+
+
+This is new code from coworker in Baltimore
 
 NYT loves this 
