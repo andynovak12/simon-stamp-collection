@@ -3,4 +3,4 @@ Simons' Stamo
 
 #About Simon
 
-Stuff about stamps
+NYT loves this 
